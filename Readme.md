@@ -21,7 +21,7 @@ This is a basic gRPC example built with Node.js to demonstrate how a client-serv
 
    ```
    git clone https://github.com/asimar007/gRPC_Demo.git
-   cd grpc-example
+   cd gRPC_Demo
    ```
 
 #### Step 1: Start the gRPC Server
